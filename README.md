@@ -2,11 +2,11 @@
 
 代码最终实现为命令行工具，源于https://github.com/EthanWelsh/Stego
 
-golang用于LSB隐写的其它一些库
-
-> "github.com/gzcharleszhang/stego"
+> golang用于LSB隐写的其它一些库：
 >
-> "github.com/auyer/steganography"
+> - ["github.com/gzcharleszhang/stego"](https://github.com/gzcharleszhang/stego)
+>
+> - ["github.com/auyer/steganography"](https://github.com/auyer/steganography)
 
 # Directory meaning
 
